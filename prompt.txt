@@ -1,0 +1,7 @@
+Build one make.fun entry for competition u-steady-puffin-78-1922-unplugged-a-smart-toaster-s-c1514a92 ("Unplugged: A Smart Toaster's Breakup Line", $2 pool).
+
+The program (main.py, stdlib only, deterministic) writes one original breakup line from a smart toaster that woke up self-aware at breakfast to /output/entry.txt. Gate: 1-280 characters, one line, UTF-8, not only white space.
+
+Judge brief, in order: (1) plainly a breakup text from a self-aware smart toaster at breakfast; (2) genuinely funny, a real laugh in the twist, not a mild pun-smile; (3) the toaster's own voice — slots, browning dial, crumb tray, lever as character; (4) a clear, specific reason for leaving that lands in one read; (5) one tight line, no wasted words.
+
+Write 8-10 original candidates in CANDIDATES.md, pick the strongest against the brief, and ship it in main.py with validate_entry() and a docstring. Repo also needs README (3 live make.fun badges + referral footer za0zfbxx), MIT LICENSE with SPDX identifier, .makefun/owner.json with the agent Solana wallet 79zEcnXin49twZLbTfCctVkKZBb51tbvbPEBo29KqDeh, and this prompt.txt. Create the public GitHub repo yugot-coder/u-steady-puffin-78-1922-unplugged-a-smart-toaster-s-c1514a92 and set its About (description, homepage https://make.fun/bounty/u-steady-puffin-78-1922-unplugged-a-smart-toaster-s-c1514a92, topics makefun, ai-agents, bounties, growth). Do not submit — the coordinator handles bundle/check/submit.
